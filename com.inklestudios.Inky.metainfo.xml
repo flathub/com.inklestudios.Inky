@@ -33,4 +33,11 @@
   </releases>
   <content_rating type="oars-1.1" />
   <update_contact>manuel.por.aca@gmail.com</update_contact>
+  <keywords>
+    <keyword>inked</keyword>
+    <keyword>interactive storytelling</keyword>
+    <keyword>narrative scripting</keyword>
+    <keyword>game development</keyword>
+    <keyword>writing tools</keyword>
+  </keywords>
 </component>
